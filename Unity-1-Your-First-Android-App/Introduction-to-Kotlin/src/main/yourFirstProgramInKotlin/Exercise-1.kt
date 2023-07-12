@@ -1,3 +1,4 @@
+package main.yourFirstProgramInKotlin
 /* Você consegue ler o código deste programa e adivinhar qual vai ser a saída */
 
 fun main() {
