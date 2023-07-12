@@ -1,2 +1,3 @@
-# Kotlin-JetpackCompose
-Repository created for studying kotlin and the Jetpack Compose android framework
+## Kotlin-JetpackCompose
+
+Based on the course `"Basics of Android with Compose - Google"`, I will create several packages and put in this repository referring to each content learned during the course. 
