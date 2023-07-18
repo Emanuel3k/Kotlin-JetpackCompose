@@ -1,4 +1,4 @@
-package main.lambda
+package main.lambdaPackage
 
 fun main() {
     val treatFunction = trickOrTreat(false) { "$it quarters" }
