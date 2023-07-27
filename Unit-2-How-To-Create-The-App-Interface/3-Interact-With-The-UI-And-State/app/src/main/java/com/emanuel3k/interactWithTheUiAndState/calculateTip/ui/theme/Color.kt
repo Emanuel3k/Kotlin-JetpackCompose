@@ -1,4 +1,4 @@
-package com.emanuel3k.interactWithTheUiAndState.introductionToStateInCompose.ui.theme
+package com.emanuel3k.interactWithTheUiAndState.calculateTip.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
