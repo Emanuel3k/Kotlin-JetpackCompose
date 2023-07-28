@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="akali_a_assassina_renegada">Akali, A Assassina Renegada</string>
+    <string name="akali_description">Abandonando a Ordem Kinkou e seu título de Punho das Sombras, Akali agora ataca sozinha, pronta para ser a arma mortal que seu povo precisa. Embora ela mantenha tudo o que aprendeu com seu mestre Shen, ela se comprometeu a defender Ionia de seus inimigos, um assassinato de cada vez. Akali pode atacar em silêncio, mas sua mensagem será ouvida em voz alta e clara: “Temam a assassina sem mestre”.</string>
+    <string name="yorick_o_pastor_de_almas">Yorick, O Pastor de Almas</string>
+    <string name="yorick_description">Último sobrevivente de uma ordem religiosa há muito esquecida, Yorick é ao mesmo tempo abençoado e amaldiçoado pelo poder que exerce sobre os mortos. Preso nas Ilhas das Sombras, suas únicas companhias são os defuntos e espíritos atormentados que ele atrai para si. As ações monstruosas de Yorick mascaram seu nobre propósito: libertar sua terra da maldição da Ruína.</string>
+    <string name="azir_o_imperador_das_areias">Azir, O Imperador das Areias</string>
+    <string name="azir_description">Azir foi um imperador mortal de Shurima em uma era muito antiga e um homem orgulhoso que esteve a um passo da imortalidade. Sua insolência fez com que fosse traído e assassinado no momento de seu maior triunfo, mas agora, milênios depois, ele renasceu como um Ascendente de poder imenso. Com sua cidade antes soterrada agora erguida, Azir busca devolver Shurima à sua antiga glória.</string>
+</resources>
